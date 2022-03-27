@@ -6,6 +6,7 @@ x = 2
 y = 0
 for i in range(1,21):
    y = y + (x**i)
+   x= x+1
    print(y) 
 
-#   answer is: 2097150
+#the answer is: 2097150, rejected by projecteuler.net

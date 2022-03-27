@@ -14,4 +14,4 @@ for i in range (1,101):
 y=y*y
 print(y-x) 
 
-#answer is: 25164150
+#the answer is: 25164150, verified by projecteuler.net

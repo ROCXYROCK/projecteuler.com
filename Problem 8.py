@@ -40,4 +40,4 @@ for i in range (1,988):
 
 print("the greatest product is ", first)
 
-#answer is: thirteen adjacent digits with the greatest product are: 5576689664895 ... the product of it is: 23514624000
+#the answer is: 23514624000, verified by projecteuler.net

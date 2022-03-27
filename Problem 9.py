@@ -19,4 +19,4 @@ while x!=True:
         x=True
 
 
-#the answer is a=200 b=375 c=425. the product of a*b*c = 31875000
+#the answer is: 31875000, verified by projecteuler.net

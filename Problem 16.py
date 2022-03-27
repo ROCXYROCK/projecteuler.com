@@ -1,3 +1,4 @@
+#Problem 16
 #2¹⁵ = 32768 and the sum of its digits is 3 + 2 + 7 + 6 + 8 = 26.
 #What is the sum of the digits of the number 2¹⁰⁰⁰?
 
@@ -10,4 +11,4 @@ for i in range (0, len(y)):
 print (z)
 
 
-# asnwer is: 1366
+#the asnwer is: 1366, verified by projecteuler.net

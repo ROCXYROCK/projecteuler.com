@@ -1,3 +1,4 @@
+#Problem 11
 #In the 20×20 grid below, four numbers along a diagonal line have been marked in red.
 #08 02 22 97 38 15 00 40 00 75 04 05 07 78 52 12 50 77 91 08
 #49 49 99 40 17 81 18 57 60 87 17 40 98 43 69 48 04 56 62 00
@@ -55,4 +56,4 @@ for i in range (0,20): # zeilenweise
                 d1 = d2
                 print("Diagonal(ld-ru):\t",d1, "numbers:", lists[i][j+3], lists[i+1][j+2], lists[i+2][j+1], lists[i+3][j])
 
-#answer is: Diagonal(left-down_right_up): 70600674 numbers: 89 94 97 87
+#the answer is: 70600674, verified by projecteuler.net

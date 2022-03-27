@@ -105,8 +105,10 @@ x = "371072875339021027987979982208375902465101357402504637693767749000971264812
 y = 0
 a =""
 for i in range(0,100):
-    y = y+ int(x[i:i+50])
+    y = y+ int(x[i*50:i*50+50])
+    print(x[i*50:i*50+50])
+
 a = "{}".format(y)
 print(a[0:10])
 
-#answer is: 4893024188
+#the answer is: 5537376230, verified by projecteuler.net

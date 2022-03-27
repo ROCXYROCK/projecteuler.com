@@ -30,4 +30,4 @@ for i in range (1,1000000):
     
 print("start num:",y, "times", b)
 
-#the answer is: (start num: 837799 times 524)
+#the answer is: 837799, verified by projecteuler.net

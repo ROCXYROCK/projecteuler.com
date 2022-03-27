@@ -31,6 +31,6 @@ while x < 502:
             x +=1
     print(b, i, x)  
 
-    #answer is : 76576500: 574
+#the answer is: 76576500, verified by projecteuler.net
 
     
