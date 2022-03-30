@@ -35,9 +35,7 @@ for i in abundant_numbs:
 for i in non_2abundant_sum:
     abundant_sum += i
 
-print(non_2abundant_sum)
 print(abundant_sum)
     
 
-#the anwser is: 31475770, rejected by projecteuler.net
-#nochmal durchlaufen lassen, dann wirds besser
+#the anwser is: 31475770, verified by projecteuler.net

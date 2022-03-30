@@ -1,3 +1,4 @@
+#Problem 19
 #You are given the following information, but you may prefer to do some research for yourself.
 #    1 Jan 1900 was a Monday.
 #    Thirty days has September,
@@ -31,4 +32,4 @@ for i in range(0,101):
 
 print(f"in the 20th centry there are {b-2} years start with sunday")# the -2 is because 1900 have 2 months, which starts with sunday
 
-#the Answer is: 171 months start in the 20th centry with sunday inclusiv(2000)
+#the Answer is: 171, verified by projecteuler.net
